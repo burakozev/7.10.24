@@ -1,0 +1,9 @@
+body{
+  background-color: cyan;
+  background-image:url(/Mona_Lisa\,_by_Leonardo_da_Vinci\,_from_C2RMF_retouched.jpg);
+  background-repeat:no-repeat ;
+  text-align: center;
+  background-position: 30vw 20vh;  
+  opacity: 0.5;
+  background-size: cover;
+}

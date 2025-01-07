@@ -1,0 +1,7 @@
+body{
+  background-image: linear-gradient(red,navy);
+background: url(/Mona_Lisa\,_by_Leonardo_da_Vinci\,_from_C2RMF_retouched.jpg) right top
+no-repeat,url(/Mona_Lisa\,_by_Leonardo_da_Vinci\,_from_C2RMF_retouched.jpg) left top no-repeat,
+url(/Mona_Lisa\,_by_Leonardo_da_Vinci\,_from_C2RMF_retouched.jpg) left bottom no-repeat,
+url(/Mona_Lisa\,_by_Leonardo_da_Vinci\,_from_C2RMF_retouched.jpg) right bottom no-repeat,
+}
